@@ -1,0 +1,39 @@
+.name{
+    background-color: teal;
+    color: white;
+    padding: 20px;
+}
+
+.introduction {
+    background-color: midnightblue;
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.skills{
+    background-color: beige;
+    margin-top: 10px;
+    padding: 20px;
+}
+.skills .list{
+    display: flex;
+    
+}
+.skills .list li{
+    margin-left: 20px;
+    padding: 5px;
+    border: 2px solid turquoise;
+}
+
+.contact{
+    background-color: black;
+    color: wheat;
+    margin-top: 10px;
+    padding: 20px;
+}
+.contact nav a{
+    text-decoration: none;
+    color: white;
+    padding-left: 18px;
+}
